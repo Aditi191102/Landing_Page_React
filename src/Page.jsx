@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Button, Img, Text } from "components";
+import { Button, Img, Text } from "./components";
 
 const Page = () => {
   return (
@@ -64,9 +64,7 @@ const Page = () => {
               className="leading-[36.00px] mt-5 text-black-900 text-xl tracking-[0.20px] w-[98%] sm:w-full"
               size="txtManropeRegular20"
             >
-              Müşterilerimizin yüksek kalite seviyelerini koruyabilmeleri için
-              farklı sektörlerde tecrübe kazanmış uzman kadrolarımızla Proje
-              Yönetimi, İş Analizi ve Test Yönetimi hizmetleri sunmaktayız.
+           Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.
             </Text>
             <div className="bg-white-A700 flex flex-row gap-[150px] items-center justify-end mt-[50px] p-1.5 rounded-lg w-[76%] md:w-full">
               <Text
@@ -93,9 +91,7 @@ const Page = () => {
           className="leading-[39.00px] mt-[31px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl tracking-[0.20px] w-[87%] sm:w-full"
           size="txtManropeRegular24"
         >
-          Müşterilerimizin yüksek kalite seviyelerini koruyabilmeleri için
-          farklı sektörlerde tecrübe kazanmış uzman kadrolarımızla Proje
-          Yönetimi, İş Analizi ve Test Yönetimi hizmetleri sunmaktayız.
+          Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.
         </Text>
         <div className="flex flex-col items-center justify-start mt-[90px] w-full">
           <div className="flex flex-col items-center justify-start w-full">
@@ -127,19 +123,19 @@ const Page = () => {
                 className="mb-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                Döküman Analizi
+                Microsoft Partner
               </Text>
               <Text
                 className="md:mt-0 mt-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                Kabul ve Değerlendirme
+               Microsoft Partner
               </Text>
               <Text
                 className="mb-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                İş Kuralları Analizi
+                Microsoft Partner
               </Text>
             </div>
             <div className="flex flex-col items-center justify-start mt-1 w-full">
@@ -147,23 +143,19 @@ const Page = () => {
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
+                />
+                Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.
+                <Text
+                  className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
+                  size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                 Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
-                </Text>
-                <Text
-                  className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
-                  size="txtManropeRegular18"
-                >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.
                 </Text>
               </div>
               <div className="flex flex-row items-start justify-between mt-[83px] w-4/5 md:w-full">
@@ -194,19 +186,19 @@ const Page = () => {
                   className="text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Akış Diyagramları
+                 Microsoft Partner
                 </Text>
                 <Text
                   className="md:ml-[0] ml-[236px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Paydaş Analizi
+                 Microsoft Partner
                 </Text>
                 <Text
                   className="md:ml-[0] ml-[261px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Prototipleme
+                  Microsoft Partner
                 </Text>
               </div>
               <div className="flex sm:flex-col flex-row sm:gap-10 items-center justify-between mt-1 w-full">
@@ -214,22 +206,19 @@ const Page = () => {
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                The Microsoft Partner of the Year Awards are announced annually prior to the company’s global partner conference, Microsoft Inspire, which will take place on July 18-19 this year.
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                  The Microsoft Partner of the Year Awards are announced annually prior to the company’s global partner conference, Microsoft Inspire, which will take place on July 18-19 this year.
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                  The Microsoft Partner of the Year Awards are announced annually prior to the company’s global partner conference, Microsoft Inspire, which will take place on July 18-19 this year.
                 </Text>
               </div>
             </div>

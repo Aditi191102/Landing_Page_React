@@ -18,35 +18,35 @@ const Page = () => {
                 className="text-black-900 text-sm w-auto"
                 size="txtManropeBold14"
               >
-                Çözüm ve Hizmetler
+               hello task 1
               </Text>
               <Text
                 className="text-black-900 text-sm w-auto"
                 size="txtManropeBold14"
               >
-                Ürünler
+                task 1
               </Text>
               <Text
                 className="text-black-900 text-sm w-auto"
                 size="txtManropeBold14"
               >
-                Teknolojiler
+                 task 1
               </Text>
               <Text
                 className="text-black-900 text-sm w-auto"
                 size="txtManropeBold14"
               >
-                İnsan Kaynakları
+                task 1 
               </Text>
               <Text
                 className="text-black-900 text-sm w-auto"
                 size="txtManropeBold14"
               >
-                Kurumsal
+                 task 1
               </Text>
             </div>
             <Button className="bg-red-500 cursor-pointer font-bold min-w-[91px] py-2.5 rounded-[5px] text-center text-sm text-white-A700">
-              İletişim
+            task 1
             </Button>
           </div>
           <div className="flex flex-col items-start justify-start w-[56%] md:w-full">
@@ -55,28 +55,26 @@ const Page = () => {
               size="txtManropeExtraBold64"
             >
               <>
-                Bilgi Teknolojilerinde
+              Join
                 <br />
-                23 Yıllık Tecrübe
+                team today
               </>
             </Text>
             <Text
               className="leading-[36.00px] mt-5 text-black-900 text-xl tracking-[0.20px] w-[98%] sm:w-full"
               size="txtManropeRegular20"
             >
-              Müşterilerimizin yüksek kalite seviyelerini koruyabilmeleri için
-              farklı sektörlerde tecrübe kazanmış uzman kadrolarımızla Proje
-              Yönetimi, İş Analizi ve Test Yönetimi hizmetleri sunmaktayız.
+              Join our team today and unlock the financial potential and flexibility you deserve. Key Benefits - High Payouts, Flexible Schedule, Career Growth, Remote Work. Telecom. Transport. Retail. IT Services. Healthcare. Manufacturing. Freshers Can Apply. Media. Part Time Jobs. Infrastructure.
             </Text>
             <div className="bg-white-A700 flex flex-row gap-[150px] items-center justify-end mt-[50px] p-1.5 rounded-lg w-[76%] md:w-full">
               <Text
                 className="text-base text-black-900_66 tracking-[0.20px]"
                 size="txtManropeRegular16"
               >
-                Mail bültenimize kayıt ol
+                 Join our team today
               </Text>
               <Button className="bg-red-500_01 cursor-pointer font-bold min-w-[136px] py-[19px] rounded-lg text-base text-center text-white-A700 tracking-[0.20px]">
-                Kayıt Ol
+              our team
               </Button>
             </div>
           </div>
@@ -87,15 +85,13 @@ const Page = () => {
           className="text-4xl sm:text-[32px] md:text-[34px] text-black-900 text-center"
           size="txtManropeExtraBold36"
         >
-          Kalite ve Süreç Yönetimi
+           Join our team today
         </Text>
         <Text
           className="leading-[39.00px] mt-[31px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl tracking-[0.20px] w-[87%] sm:w-full"
           size="txtManropeRegular24"
         >
-          Müşterilerimizin yüksek kalite seviyelerini koruyabilmeleri için
-          farklı sektörlerde tecrübe kazanmış uzman kadrolarımızla Proje
-          Yönetimi, İş Analizi ve Test Yönetimi hizmetleri sunmaktayız.
+          Join our team today and unlock the financial potential and flexibility you deserve. Key Benefits - High Payouts, Flexible Schedule, Career Growth, Remote Work. Telecom. Transport. Retail. IT Services. Healthcare. Manufacturing. Freshers Can Apply. Media. Part Time Jobs. Infrastructure.
         </Text>
         <div className="flex flex-col items-center justify-start mt-[90px] w-full">
           <div className="flex flex-col items-center justify-start w-full">
@@ -127,19 +123,19 @@ const Page = () => {
                 className="mb-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                Döküman Analizi
+               Join our team today
               </Text>
               <Text
                 className="md:mt-0 mt-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                Kabul ve Değerlendirme
+             Join our team today
               </Text>
               <Text
                 className="mb-0.5 text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                 size="txtManropeExtraBold24"
               >
-                İş Kuralları Analizi
+                 Join our team today
               </Text>
             </div>
             <div className="flex flex-col items-center justify-start mt-1 w-full">
@@ -148,22 +144,18 @@ const Page = () => {
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                  Join our team today Join our team today Join our team today
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                   Join our team today Join our team today Join our team today
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
-                >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                > Join our team today Join our team today Join our team today
                 </Text>
               </div>
               <div className="flex flex-row items-start justify-between mt-[83px] w-4/5 md:w-full">
@@ -194,19 +186,19 @@ const Page = () => {
                   className="text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Akış Diyagramları
+                 Join our team today
                 </Text>
                 <Text
                   className="md:ml-[0] ml-[236px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Paydaş Analizi
+                   Join our team today
                 </Text>
                 <Text
                   className="md:ml-[0] ml-[261px] text-2xl md:text-[22px] text-black-900 text-center sm:text-xl"
                   size="txtManropeExtraBold24"
                 >
-                  Prototipleme
+                  Join our team
                 </Text>
               </div>
               <div className="flex sm:flex-col flex-row sm:gap-10 items-center justify-between mt-1 w-full">
@@ -214,22 +206,19 @@ const Page = () => {
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                   Join our team today Join our team today Join our team today
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                   Join our team today Join our team today Join our team today
                 </Text>
                 <Text
                   className="leading-[28.00px] text-black-900 text-center text-lg tracking-[0.20px]"
                   size="txtManropeRegular18"
                 >
-                  Ante vulputate ut at accumsan et. Feugiat at tempus, est
-                  senectus amet, elementum.
+                 Join our team today Join our team today
                 </Text>
               </div>
             </div>
@@ -245,14 +234,14 @@ const Page = () => {
                   className="text-5xl sm:text-[38px] md:text-[44px] text-center text-white-A700 w-auto"
                   size="txtManropeExtraBold48"
                 >
-                  Test Yönetimiyle Neler Sağlıyoruz?
+                   Join our team today
                 </Text>
               </div>
               <Text
                 className="text-center text-lg text-white-A700 w-full"
                 size="txtManropeRegular18WhiteA700"
               >
-                IoT Destekli Çözümler
+                Join our team today
               </Text>
             </div>
             <div className="flex md:flex-col flex-row md:gap-10 items-center justify-between w-full">
@@ -261,9 +250,9 @@ const Page = () => {
                 size="txtManropeBold18"
               >
                 <>
-                  Yazılım Kalitesini
+                Join our team today
                   <br />
-                  Arttırıyoruz
+                  Join our team today
                 </>
               </Text>
               <Img
@@ -276,9 +265,9 @@ const Page = () => {
                 size="txtManropeBold18"
               >
                 <>
-                  Olası Hataları Önceden
+                Join our team today
                   <br />
-                  Belirliyoruz
+                  Join
                 </>
               </Text>
               <Img
@@ -291,9 +280,9 @@ const Page = () => {
                 size="txtManropeBold18"
               >
                 <>
-                  Oluşabilecek Riskleri
+                Join our team today
                   <br />
-                  Önlüyoruz
+                  Join our team today
                 </>
               </Text>
               <Img
@@ -306,9 +295,9 @@ const Page = () => {
                 size="txtManropeBold18"
               >
                 <>
-                  Zaman ve Maliyetten
+                Join our team today
                   <br />
-                  Tasarruf Sağlıyoruz
+                  Join our team today
                 </>
               </Text>
             </div>
@@ -327,18 +316,13 @@ const Page = () => {
               className="leading-[76.00px] md:text-5xl text-[64px] text-blue_gray-900 w-full"
               size="txtManropeBold64"
             >
-              Kalite ve Süreç Yönetimi
+               Join our team today
             </Text>
             <Text
               className="leading-[32.00px] mt-10 text-base text-gray-600 w-[87%] sm:w-full"
               size="txtManropeRegular16Gray600"
             >
-              Deneyimli kadromuz; birçok farklı sektörden deneyimli, PMP®
-              sertifikasına sahip, uzman proje yöneticilerinden oluşmaktadır.
-              Projelerinizin yönetimine destek olmak, zayıf olduğunu
-              düşündüğünüz alanları güçlendirmek, uluslararası geçerliliği
-              olan PMI® metodolojisini şirketinizde uygulamak ve geliştirmek
-              için yanınızdayız.
+             Join our team today and unlock the financial potential and flexibility you deserve. Key Benefits - High Payouts, Flexible Schedule, Career Growth, Remote Work. Telecom. Transport. Retail. IT Services. Healthcare. Manufacturing. Freshers Can Apply. Media. Part Time Jobs. Infrastructure.
             </Text>
             <Button className="bg-red-500_01 cursor-pointer font-semibold mt-20 py-3.5 rounded-lg text-center text-sm text-white-A700 w-40">
               Keşfet
@@ -361,21 +345,16 @@ const Page = () => {
               className="leading-[76.00px] md:text-5xl text-[64px] text-blue_gray-900 w-full"
               size="txtManropeBold64"
             >
-              Test Yönetimi ve Analizi
+              Join our team today
             </Text>
             <Text
               className="leading-[32.00px] mt-10 text-base text-gray-600 w-[96%] sm:w-full"
               size="txtManropeRegular16Gray600"
             >
-              Danışmanlığını yürüttüğümüz projelerde yazılım hatalarını
-              önlemek amacıyla gerçekleştirdiğimiz testleri her proje
-              aşamasında manuel ya da test otomasyonu ile dikkatle
-              uygulamaktayız. Deneyimli test ekibimiz, kurumlara yüksek
-              kalitede yazılım testleri hizmeti ile baştan sona güvenli,
-              kaliteli ve tatmin edici bir müşteri deneyimi sunmaktadır.
+            Join our team today and unlock the financial potential and flexibility you deserve. Key Benefits - High Payouts, Flexible Schedule, Career Growth, Remote Work. Telecom. Transport. Retail. IT Services. Healthcare. Manufacturing. Freshers Can Apply. Media. Part Time Jobs. Infrastructure.
             </Text>
             <Button className="bg-red-500_01 cursor-pointer font-semibold mt-20 py-3.5 rounded-lg text-center text-sm text-white-A700 w-40">
-              Keşfet
+            Outsourcing 
             </Button>
           </div>
         </div>
@@ -387,14 +366,14 @@ const Page = () => {
               className="text-5xl sm:text-[38px] md:text-[44px] text-center text-gray-900 w-auto"
               size="txtManropeExtraBold48Gray900"
             >
-              Referanslarımız
+              Outsourcing 
             </Text>
           </div>
           <Text
             className="text-center text-gray-900 text-lg w-full"
             size="txtManropeMedium18"
           >
-            Bize güvenen ve beraber çalıştığımız iş ortaklarımız
+            Outsourcing  career growth, remote work
           </Text>
         </div>
         <div className="flex md:flex-col flex-row gap-6 items-center justify-start max-w-[946px] mx-auto w-full">
@@ -449,7 +428,7 @@ const Page = () => {
               }
             >
               <div className="font-semibold sm:px-5 text-base text-center text-red-500_01">
-                Tümünü Gör
+              Outsourcing 
               </div>
             </Button>
           </div>
@@ -482,7 +461,7 @@ const Page = () => {
             className="absolute bottom-[0] inset-x-[0] mx-auto text-5xl sm:text-[38px] md:text-[44px] text-black-900 text-center w-max"
             size="txtManropeExtraBold48Black900"
           >
-            Bize Ulaşın
+            Outsourcing 
           </Text>
           <div className="bg-red-500_01 h-[61px] ml-auto mr-[72px] mt-1.5 rounded-[30px] w-[61px]"></div>
           <Img
@@ -495,8 +474,7 @@ const Page = () => {
           className="mt-[3px] text-black-900 text-center text-lg"
           size="txtManropeMedium18Black900"
         >
-          Çözüm, hizmet ve ürünlerimiz hakkında detaylı bilgi için bizimle
-          irtibata geçin.
+          Outsourcing , Career Growth, Remote Work. Telecom. Transport. Retail. IT Services. Healthcare. Manufacturing. 
         </Text>
         <Button className="bg-red-500 cursor-pointer font-semibold min-w-[204px] mt-[30px] py-[18px] rounded-lg text-2xl md:text-[22px] text-center text-white-A700 sm:text-xl">
           Bize Ulaşın
@@ -511,14 +489,9 @@ const Page = () => {
                   className="text-base text-white-A700"
                   size="txtInterBold16"
                 >
-                  Çözüm ve Hizmetler
+                 Outsourcing
                 </Text>
                 <ul className="flex flex-col gap-9 items-start justify-start w-full common-column-list">
-                  <li>
-                    <a href="javascript:" className="text-base text-gray-300">
-                      <Text size="txtInterRegular16">Yazılım Geliştirme</Text>
-                    </a>
-                  </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">Outsourcing</Text>
@@ -526,20 +499,25 @@ const Page = () => {
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
+                      <Text size="txtInterRegular16"></Text>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        Kalite ve Süreç Yönetimi
+                      Flexible Schedule
                       </Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
-                      <Text size="txtInterRegular16">Danışmanlık</Text>
+                      <Text size="txtInterRegular16">Flexiblek</Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        IoT Destekli Çözümler
+                      Flexible Schedule, 
                       </Text>
                     </a>
                   </li>
@@ -550,34 +528,34 @@ const Page = () => {
                   className="text-base text-white-A700"
                   size="txtInterBold16"
                 >
-                  Ürünler
+                 Flexible Schedule, 
                 </Text>
                 <ul className="flex flex-col gap-[34px] items-start justify-start w-full common-column-list">
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        Eğitim Yönetim Sistemi
+                      Flexible Schedule, 
                       </Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        İnsan Sermayesi Yönetim Sistemi
+                      Flexible Schedule, 
                       </Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        Müşteri İlişkileri Yönetim Sistemi
+                      Flexible Schedule,  Flexible Schedule
                       </Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
                       <Text size="txtInterRegular16">
-                        İçerik Yönetim Sistemi
+                      Flexible Schedule, 
                       </Text>
                     </a>
                   </li>
@@ -588,12 +566,12 @@ const Page = () => {
                   className="text-base text-white-A700"
                   size="txtInterBold16"
                 >
-                  Kurumsal
+                  Flexible Schedule, 
                 </Text>
                 <ul className="flex flex-col items-start justify-start w-full common-column-list">
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
-                      <Text size="txtInterRegular16">Hakkımızda</Text>
+                      <Text size="txtInterRegular16">Flexible</Text>
                     </a>
                   </li>
                   <li>
@@ -602,7 +580,7 @@ const Page = () => {
                       className="mt-[37px] text-base text-gray-300"
                     >
                       <Text size="txtInterRegular16">
-                        Belge ve Yetkinlikler
+                      Flexible Schedule, 
                       </Text>
                     </a>
                   </li>
@@ -621,17 +599,17 @@ const Page = () => {
                   className="text-base text-white-A700"
                   size="txtInterBold16"
                 >
-                  İletişim
+                 Flexible Schedule
                 </Text>
                 <ul className="flex flex-col gap-[37px] items-start justify-start w-full common-column-list">
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
-                      <Text size="txtInterRegular16">Bilgi İstek Formu</Text>
+                      <Text size="txtInterRegular16">Flexible Schedule, </Text>
                     </a>
                   </li>
                   <li>
                     <a href="javascript:" className="text-base text-gray-300">
-                      <Text size="txtInterRegular16">Uzman Talep Formu</Text>
+                      <Text size="txtInterRegular16">Flexible Schedule, </Text>
                     </a>
                   </li>
                 </ul>
@@ -642,7 +620,7 @@ const Page = () => {
                 className="mb-1 sm:mt-0 mt-[7px] text-base text-white-A700"
                 size="txtInterRegular16WhiteA700"
               >
-                © Copyright 2010-2021 - Can Çevik
+                © Copyright 2023-2024 - Deepanshu
               </Text>
               <div className="flex sm:flex-1 flex-row gap-4 items-center justify-between w-[15%] sm:w-full">
                 <Img
